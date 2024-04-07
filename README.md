@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://tenor.com/bT70J.gif" align="center" height = "300" width="6000" >
+<img src="https://media.tenor.com/images/adf07336af22551743b9eefc63e728e6/tenor.gif" align="center" height = "300" width="6000" >
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
