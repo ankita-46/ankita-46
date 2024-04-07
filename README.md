@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<h1 align="center" >I'm Ankita Verma</h1>
+<h1 align="center" >I'm Ankita Verma <img src="https://emojis.slackmojis.com/emojis/images/1584725500/8268/blob-hype.gif?1584725500" width="30px"></h1>
 
 <h1 align="center">CSE Pre Final Year</h1>
 
