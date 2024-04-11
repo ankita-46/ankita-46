@@ -47,10 +47,14 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ankita0406/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankita0406" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ankita_0406" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvm-5Fad8XKQMlk2YqYW5fae7lZfU-fh6Khkuh4j4AqQ&s" alt="ankita_0406" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/ankitaverma0406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ankitaverma0406" height="30" width="40" /></a>
-<a href="https://leetcode.com/Ankita_0406/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ankita_0406" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ankitaverma0406" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKKgawCk7YAe5qKvj61d7dcYO6RUkz_sALAj95EiYzzA&s" alt="ankitaverma0406" height="30" width="40" /></a>
+<a href="mailto:ankitaverma91983@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" alt="gmail" height="30" width="40" /></a>
+    <a href="https://t.me/@himawari46" target="blank"><img align="center"
+            src="https://cdn0.iconfinder.com/data/icons/social-network-24/512/Telegram-512.png" alt="telegram" height="53"
+            width="53" /></a>
+    <a href="https://discordapp.com/channels/948600308295159858" target="blank"><img align="center"
+            src="https://image.flaticon.com/icons/png/512/2111/2111370.png" alt="discord" height="45"
+            width="45" /></a>
 </p>
 
 
