@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://www.linkedin.com/in/ankita0406/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankita0406" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/ankitaverma0406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ankitaverma0406" height="53" width="53" /></a>
-<a href="mailto:ankitaverma91983@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" alt="gmail" height="30" width="40" /></a>
+<a href="mailto:ankitaverma91983@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" alt="gmail" height="40" width="40" /></a>
     <a href="https://t.me/@himawari46" target="blank"><img align="center"
             src="https://cdn0.iconfinder.com/data/icons/social-network-24/512/Telegram-512.png" alt="telegram" height="53"
             width="53" /></a>
