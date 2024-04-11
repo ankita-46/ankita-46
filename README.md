@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <div style="text-align: center; padding-left: 1000px ;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFobnBodXVhM2V2Ymk3dHF3N3JqYnloMmxseW1kZDh5eG52dWVhNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.gif" height="300" width="600">
+    <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFobnBodXVhM2V2Ymk3dHF3N3JqYnloMmxseW1kZDh5eG52dWVhNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.gif" height="300" width="600">
 </div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey%20There👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
