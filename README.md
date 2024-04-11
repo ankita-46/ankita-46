@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://media1.tenor.com/m/1mwdqr51emcAAAAC/test-typing.gif" align="center" height = "300" width="6000" >
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFobnBodXVhM2V2Ymk3dHF3N3JqYnloMmxseW1kZDh5eG52dWVhNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.gif" align="center" height = "300" width="6000" >
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey%20There👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
