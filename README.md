@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 <img src="https://media1.tenor.com/m/1mwdqr51emcAAAAC/test-typing.gif" align="center" height = "300" width="6000" >
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20There👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<h1 align="center" >I'm Ankita Verma <img src="https://emojis.slackmojis.com/emojis/images/1584725500/8268/blob-hype.gif?1584725500" width="30px"></h1>
+<h1 align="center" >I'm Ankita! <img src="https://emojis.slackmojis.com/emojis/images/1584725500/8268/blob-hype.gif?1584725500" width="30px"></h1>
 
 <h1 align="center">CSE Pre Final Year</h1>
 <h2 align="center"> Welcome to my github profile! <img src="https://emojis.slackmojis.com/emojis/images/1562883039/5948/bongo_blob.gif?1562883039" width="30px">
