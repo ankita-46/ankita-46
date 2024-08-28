@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <h1 align="center" >I'm Ankita! <img src="https://emojis.slackmojis.com/emojis/images/1584725500/8268/blob-hype.gif?1584725500" width="30px"></h1>
 
-<h1 align="center">CSE Pre Final Year</h1>
+<h1 align="center">CSE Final Year</h1>
 <h2 align="center"> Welcome to my github profile! <img src="https://emojis.slackmojis.com/emojis/images/1562883039/5948/bongo_blob.gif?1562883039" width="30px">
 </h2>
 <h1 align="center"> :fire: My Stats </h1>
